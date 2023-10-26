@@ -1,0 +1,345 @@
+*{
+    margin: 0px;
+}
+form{
+    width: 100%;
+    height: 100%;
+}
+img{
+    width: 100%;
+    height: 100%;
+
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.title2{
+    font-size: 24px;
+    color: black;
+    margin-left: 10px;
+}
+.title3{
+    font-size: 43px;
+    color: black;
+    text-align: center;
+}
+.title4{
+    font-size: 30px;
+    color: black;
+}
+.subtitle2{
+    font-size: 20px;
+    color: black;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.subtitle3{
+    font-size: 20px;
+    color: black;
+    margin-right: 5px;
+}
+.vab{
+    font-size: 19px;
+    color: grey;
+    border-radius: 8px;
+    padding: 2px;
+}
+.vabt{
+    width: 100%;
+    height: 100%;
+    background-color: #E3E3E3;
+    border-radius: 8px;
+    padding: 3px;
+    font-weight: bold;
+}
+.subtitle{
+    font-size: 70px;
+    color: red;
+    font-weight: bold;
+}
+.subtext{
+    color: grey;
+    font-size: 20px;
+}
+.subtext2{
+    color: red;
+    font-size: 20px;
+}
+.cont{
+    width: 100%;
+    height: 100%;
+    display: column;
+
+}
+    .cab{
+        width: 100%;
+        height: 7vh;
+        background-color: rgb(255, 255, 255);
+        margin-bottom: 7vh;
+        border-top: double 4px orange;
+        display: flex;
+        justify-content: space-between;
+        font-size: 19px;
+    }
+        .incab1{
+            width: 80vh;
+            height: 80%;
+            display: flex;
+            justify-content: center;
+            color: grey;
+            margin-left: 10vh;
+            margin-top: 2vh;
+        }
+            .incab1_1{
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .incab1_2{
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .incab1_3{
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .incab1_4{
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .incab1_5{
+                width: 25%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        .incab2{
+            width: 40vh;
+            height: 80%;
+            display: flex;
+            justify-content: center;
+            margin-right: 15vh;
+            margin-top: 2vh;
+        }
+            .incab2_1{
+                width: 50%;
+                height: 100%;
+                background-color: rgb(255, 255, 255);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: grey;
+            }
+            .incab2_2{
+                width: 50%;
+                height: 100%;
+                background-color: rgb(255, 0, 0);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 8px;
+                color: white;
+            }
+    .main{
+        width: 60%;
+        height: 40vh;
+        position: absolute;
+        left: 20%;
+        display: column;
+    }
+            .info1{
+                width: 100%;
+                height: 50%;
+                display: column;
+                justify-content: center;
+                align-items: center;
+            }
+                .ininfo1_1{
+                    width: 100%;
+                    height: 35%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    color: red;
+                }
+                .ininfo1_2{
+                    width: 100%;
+                    height: 65%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 50px;
+                    font-weight: bold;
+                }
+            .info2{
+                width: 100%;
+                height: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: grey;
+                font-size: 20px;
+            }
+    .main2{
+        width: 80%;
+        height: 70vh;
+        position: absolute;
+        left: 10%;
+        display: column;
+        margin-top: 47vh;
+    }
+            .info3{
+                width: 100%;
+                height: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+             }
+                .ininfo3_1{
+                    width: 25%;
+                    height: 100%;
+                }
+            .info4{
+                width: 100%;
+                height: 40%;
+                display: column;
+            }
+                .ininfo4_1{
+                    width: 100%;
+                    height: 50%;
+                    display: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+    .main3{
+        width: 85%;
+        height: 60vh;
+        position: absolute;
+        background-color: red;
+        left: 7.5%;
+        display: column;
+        margin-top: 124vh;
+    }
+            .info5{
+                width: 100%;
+                height: 100%;
+                }
+    .main4{
+        width: 50%;
+        height: 120vh;
+        position: absolute;
+        left: 25%;
+        display: column;
+        margin-top: 191vh;
+    }
+            .info6{
+                width: 100%;
+                height: 50vh;
+            }
+                .ininfo6_1{
+                    width: 100%;
+                    height: 13.3%;
+                }
+                .ininfo6_2{
+                    width: 100%;
+                    height: 43.3%;
+                    border: solid 1px rgba(0, 0, 0, 0.9);
+                    border-radius: 8px;
+                }
+                .ininfo6_3{
+                    width: 100%;
+                    height: 43.3%;
+                    border: solid 1px rgba(0, 0, 0, 0.9);
+                    border-radius: 8px;
+                    margin-top: 5vh;
+                }
+            .info7{
+                width: 100%;
+                height: 70vh;
+                margin-top: 10vh;
+            }
+                .ininfo7_1{
+                    width: 100%;
+                    height: 14.2%;
+                }
+                .ininfo7_2{
+                    width: 100%;
+                    height: 28.5%;
+                    border: solid 1px rgba(0, 0, 0, 0.9);
+                    border-radius: 8px;
+                }
+                .ininfo7_3{
+                    width: 100%;
+                    height: 28.5%;
+                    border: solid 1px rgba(0, 0, 0, 0.9);
+                    border-radius: 8px;
+                    margin-top: 5vh;
+                }
+                .ininfo7_4{
+                    width: 100%;
+                    height: 28.5%;
+                    border: solid 1px rgba(0, 0, 0, 0.9);
+                    border-radius: 8px;
+                    margin-top: 5vh;
+                }
+    .main5{
+        width: 80%;
+        height: 60vh;
+        background-color: #ececec;
+        position: absolute;
+        left: 10%;
+        display: column;
+        margin-top: 338vh;
+        border-radius: 13px;
+        }
+            .info8{
+                width: 100%;
+                height: 25%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+                .ininfo8{
+                    width: 100%;
+                    height: 50%;
+                }
+            .info9{
+                width: 100%;
+                height: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+    .main6{
+        width: 100%;
+        height: 80vh;
+        background-color: #ececec;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 415vh;
+    }
+        .info10{
+            width: 60%;
+            height: 43%;
+            }
+            .ininfo10_2{
+                width: 100%;
+                height: 25%;
+            }
+
